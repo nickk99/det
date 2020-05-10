@@ -1,5 +1,5 @@
 <?php
 
-print""[D[D [Chi u r connected"
+print"Chi u r connected";
 
 ?>
